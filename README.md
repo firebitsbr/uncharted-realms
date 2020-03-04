@@ -4,11 +4,20 @@
 ![GitHub issues by-label](https://img.shields.io/github/issues/senzible/uncharted-realms/needs%20triage)
 ![GitHub issues](https://img.shields.io/github/issues/senzible/uncharted-realms)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/senzible/uncharted-realms)
+![GitHub repo size](https://img.shields.io/github/repo-size/senzible/uncharted-realms)
 
 An Open Source Full Loot PvPvE RPG
 
 ## Getting Started
 ..instructions on getting the development environment up and running.
+
+### Game Server
+[![Go Report Card](https://goreportcard.com/badge/github.com/senzible/uncharted-realms)](https://goreportcard.com/report/github.com/senzible/uncharted-realms)
+The Game Server is written in Go..
+
+### Game Client
+We're using Unity3D
+..git LFS memo
 
 ## Contributing
 ![GitHub issues by-label](https://img.shields.io/github/issues/senzible/uncharted-realms/good%20first%20issue)
